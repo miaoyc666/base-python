@@ -1,4 +1,4 @@
-FROM python:3.9.2
+FROM python:2.7
 MAINTAINER miaoyongchao "miaoyc1989@hotmail.com"
 
 WORKDIR /home/s/apps/
